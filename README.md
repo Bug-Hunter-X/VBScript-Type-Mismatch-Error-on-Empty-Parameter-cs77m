@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript related to type mismatch when dealing with empty parameters. The original code lacks robust error handling. The solution improves the error handling to provide a more informative message.
